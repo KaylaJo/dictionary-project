@@ -1,8 +1,14 @@
+.App {
+  max-width: 100%;
+}
+
 .App-header {
   text-align: center;
+  margin: 20px;
 }
 
 .App-footer {
   text-align: center;
   font-size: 12px;
+  margin: 20px;
 }
