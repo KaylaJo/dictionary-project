@@ -4,8 +4,8 @@ export default function Dictionary() {
   let [keyword, setKeyword] = useState("");
 
   function search(event) {
-    event.preventDeafult();
-    alert("Searching");
+    event.preventDefault();
+    alert(`Searching for ${keyword} definition`);
   }
 
   function handleKeywordChange(event) {
