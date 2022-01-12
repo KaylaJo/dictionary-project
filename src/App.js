@@ -12,7 +12,14 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          Coded by Kayla Cupp. Open-Source on GitHub. Hosted on Netlify.
+          Coded by Kayla J. Cupp. Open-Source on{" "}
+          <a
+            href="https://github.com/KaylaJo/dictionary-project"
+            className="Link"
+          >
+            GitHub
+          </a>
+          . Hosted on Netlify.
         </footer>
       </div>
     </div>
