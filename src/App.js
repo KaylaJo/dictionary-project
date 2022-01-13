@@ -12,7 +12,7 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          Coded by Kayla J. Cupp. Open-Source on{" "}
+          Coded by Kayla J. Cupp. Open-Source code on{" "}
           <a
             href="https://github.com/KaylaJo/dictionary-project"
             className="Link"
