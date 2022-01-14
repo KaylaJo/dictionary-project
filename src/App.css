@@ -1,10 +1,15 @@
-.App {
+body {
+  background: linear-gradient(#b394f5, #fce0f3, #ffebe6);
   max-width: 100%;
+  background-attachment: fixed;
 }
 
+a {
+  color: #b394f5;
+}
 .App-header {
   text-align: center;
-  margin: 20px;
+  margin: 20px 0;
 }
 
 .App-footer {

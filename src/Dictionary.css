@@ -1,3 +1,24 @@
-.Dictionary {
-  text-align: center;
+.Dictionary h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.Dictionary input {
+  width: 100%;
+  padding: 6px 8px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  color: #6c696a;
+}
+
+.Dictionary section {
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.1)
+  );
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+  margin: 20px 0;
 }

@@ -9,7 +9,7 @@ function App() {
           <h1> Dictionary</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="queen" />
         </main>
         <footer className="App-footer">
           Coded by Kayla J. Cupp. Open-Source code on{" "}
