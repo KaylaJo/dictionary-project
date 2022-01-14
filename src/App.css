@@ -1,12 +1,13 @@
 body {
-  background: linear-gradient(#b394f5, #fce0f3, #ffebe6);
+  background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
   max-width: 100%;
   background-attachment: fixed;
 }
 
 a {
-  color: #b394f5;
+  color: #ffffff;
 }
+
 .App-header {
   text-align: center;
   margin: 20px 0;
